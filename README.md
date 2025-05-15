@@ -3,6 +3,7 @@ Composite experiment developed for my Computer Science degree (Data Structures &
 This project implements a city database using both a Singly Linked List and an Array-based List, allowing operations such as insertion, deletion, searching, and file loading. It then compares the efficiency and behavior of both data structures through real-time performance measurements.
 
 > **Note:** The data structure implementations (and the "assert" function) are based on _Data Structures and Algorithm Analysis in C++ (3rd Edition)_ by Clifford A. Shaffer, with minor modifications for improved efficiency (e.g., replacing `NULL` with `nullptr`, and other modern C++ best practices).
+
 > **Note 2:** This project was originally developed in May 2024. However, several improvements and changes were made before uploading it to this repository.
 
 >
